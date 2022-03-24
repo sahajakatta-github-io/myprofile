@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/sahajakatta-github-io/mypr
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<script src="https://embed.github.com/view/3d/<sahajakatta>/<ayeinterns-winter2021>/<ref>/<https://github.com/ayeinterns/ayeinterns-winter2021/blob/main/sahaja/render/car_model.stl>"></script>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
